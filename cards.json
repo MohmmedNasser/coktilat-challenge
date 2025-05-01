@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "name": "Aisha",
+        "age": 28,
+        "gender": "Female",
+        "availability": "Tuesdays & Thursdays 5PM-8PM EST",
+        "tags": [
+            "self-esteem",
+            "cultural-identity",
+            "relationships"
+        ],
+        "bio": "Compassionate listener with a multicultural background. I help people navigate identity issues and relationship challenges.",
+        "rating": 4.9,
+        "sessions": 250,
+        "helped": 180,
+        "returnRate": "85%",
+        "weekAvailability": {
+            "Mon": "9AM-5PM",
+            "Tue": "9AM-5PM",
+            "Wed": "9AM-5PM",
+            "Thu": "9AM-5PM",
+            "Fri": "9AM-5PM"
+        },
+        "languages": [
+            "English",
+            "Arabic",
+            "American English",
+            "Lebanese Arabic"
+        ],
+        "image": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg",
+        "status": "offline"
+    },
+    {
+        "id": 2,
+        "name": "Omar",
+        "age": 32,
+        "gender": "Male",
+        "availability": "Weekends 1PM-4PM EST",
+        "tags": [
+            "anxiety",
+            "stress",
+            "self-discipline"
+        ],
+        "bio": "Experienced coach helping individuals manage stress and improve mental clarity.",
+        "rating": 4.7,
+        "sessions": 190,
+        "helped": 160,
+        "returnRate": "75%",
+        "weekAvailability": {
+            "Sat": "1PM-4PM",
+            "Sun": "1PM-4PM"
+        },
+        "languages": [
+            "English",
+            "Arabic"
+        ],
+        "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
+        "status": "online"
+    },
+    {
+        "id": 3,
+        "name": "Lina",
+        "age": 26,
+        "gender": "Female",
+        "availability": "Mon-Fri 6PM-9PM",
+        "tags": [
+            "grief",
+            "loss",
+            "healing"
+        ],
+        "bio": "Supportive therapist guiding clients through grief and emotional recovery.",
+        "rating": 5.0,
+        "sessions": 300,
+        "helped": 220,
+        "returnRate": "92%",
+        "weekAvailability": {
+            "Mon": "6PM-9PM",
+            "Tue": "6PM-9PM",
+            "Wed": "6PM-9PM",
+            "Thu": "6PM-9PM",
+            "Fri": "6PM-9PM"
+        },
+        "languages": [
+            "English",
+            "French"
+        ],
+        "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+        "status": "offline"
+    },
+    {
+        "id": 4,
+        "name": "Ahmed",
+        "age": 35,
+        "gender": "Male",
+        "availability": "Evenings 7PM-10PM",
+        "tags": [
+            "parenting",
+            "family",
+            "communication"
+        ],
+        "bio": "Helping families improve communication and strengthen their bonds.",
+        "rating": 4.8,
+        "sessions": 210,
+        "helped": 175,
+        "returnRate": "88%",
+        "weekAvailability": {
+            "Mon": "7PM-10PM",
+            "Wed": "7PM-10PM",
+            "Fri": "7PM-10PM"
+        },
+        "languages": [
+            "Arabic",
+            "Egyptian Arabic"
+        ],
+        "image": "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg",
+        "status": "online"
+    },
+    {
+        "id": 5,
+        "name": "Nour",
+        "age": 30,
+        "gender": "Female",
+        "availability": "Weekdays 8AM-12PM",
+        "tags": [
+            "self-confidence",
+            "life-goals",
+            "motivation"
+        ],
+        "bio": "Empowering individuals to reach their full potential through self-awareness.",
+        "rating": 4.6,
+        "sessions": 140,
+        "helped": 120,
+        "returnRate": "70%",
+        "weekAvailability": {
+            "Mon": "8AM-12PM",
+            "Tue": "8AM-12PM",
+            "Wed": "8AM-12PM",
+            "Thu": "8AM-12PM",
+            "Fri": "8AM-12PM"
+        },
+        "languages": [
+            "English",
+            "Arabic"
+        ],
+        "image": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg",
+        "status": "offline"
+    },
+    {
+        "id": 6,
+        "name": "Ziad",
+        "age": 40,
+        "gender": "Male",
+        "availability": "Fridays Only 10AM-2PM",
+        "tags": [
+            "career",
+            "productivity",
+            "coaching"
+        ],
+        "bio": "Career coach focused on productivity and goal setting.",
+        "rating": 4.5,
+        "sessions": 160,
+        "helped": 130,
+        "returnRate": "78%",
+        "weekAvailability": {
+            "Fri": "10AM-2PM"
+        },
+        "languages": [
+            "Arabic",
+            "English"
+        ],
+        "image": "https://images.pexels.com/photos/936117/pexels-photo-936117.jpeg",
+        "status": "online"
+    },
+    {
+        "id": 7,
+        "name": "Dina",
+        "age": 29,
+        "gender": "Female",
+        "availability": "Mon & Wed 3PM-6PM",
+        "tags": [
+            "depression",
+            "coping",
+            "mental-health"
+        ],
+        "bio": "Psychologist providing support for managing depression and emotional resilience.",
+        "rating": 4.9,
+        "sessions": 270,
+        "helped": 200,
+        "returnRate": "90%",
+        "weekAvailability": {
+            "Mon": "3PM-6PM",
+            "Wed": "3PM-6PM"
+        },
+        "languages": [
+            "Arabic",
+            "English",
+            "French"
+        ],
+        "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+        "status": "offline"
+    },
+    {
+        "id": 8,
+        "name": "Fadi",
+        "age": 33,
+        "gender": "Male",
+        "availability": "Tues & Thurs 10AM-1PM",
+        "tags": [
+            "addiction",
+            "support",
+            "trauma"
+        ],
+        "bio": "Counselor specializing in trauma recovery and addiction support.",
+        "rating": 4.7,
+        "sessions": 230,
+        "helped": 190,
+        "returnRate": "85%",
+        "weekAvailability": {
+            "Tue": "10AM-1PM",
+            "Thu": "10AM-1PM"
+        },
+        "languages": [
+            "Arabic",
+            "English"
+        ],
+        "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg",
+        "status": "online"
+    },
+    {
+        "id": 9,
+        "name": "Sarah",
+        "age": 27,
+        "gender": "Female",
+        "availability": "Daily 2PM-5PM",
+        "tags": [
+            "mindfulness",
+            "emotional-intelligence",
+            "therapy"
+        ],
+        "bio": "Therapist focusing on mindfulness and emotional development.",
+        "rating": 5.0,
+        "sessions": 310,
+        "helped": 240,
+        "returnRate": "95%",
+        "weekAvailability": {
+            "Mon": "2PM-5PM",
+            "Tue": "2PM-5PM",
+            "Wed": "2PM-5PM",
+            "Thu": "2PM-5PM",
+            "Fri": "2PM-5PM",
+            "Sat": "2PM-5PM",
+            "Sun": "2PM-5PM"
+        },
+        "languages": [
+            "English",
+            "Arabic"
+        ],
+        "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+        "status": "online"
+    }
+]
